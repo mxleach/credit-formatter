@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/credit-formatter/static/css/main.47100f2f.css",
+    "main.js": "/credit-formatter/static/js/main.2253eba4.js",
+    "static/js/453.5b2c693c.chunk.js": "/credit-formatter/static/js/453.5b2c693c.chunk.js",
+    "index.html": "/credit-formatter/index.html",
+    "main.47100f2f.css.map": "/credit-formatter/static/css/main.47100f2f.css.map",
+    "main.2253eba4.js.map": "/credit-formatter/static/js/main.2253eba4.js.map",
+    "453.5b2c693c.chunk.js.map": "/credit-formatter/static/js/453.5b2c693c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47100f2f.css",
+    "static/js/main.2253eba4.js"
+  ]
+}
